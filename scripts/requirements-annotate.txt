@@ -1,0 +1,11 @@
+# Dependencies for scripts/04_annotate_dino.py.
+#
+# autodistill-grounding-dino calls a deprecated method on BertModel; the
+# patch at the top of 04_annotate_dino.py reattaches it. As a result, this
+# script works with current transformers releases without version pinning.
+
+autodistill
+autodistill-grounding-dino
+transformers
+sentence-transformers
+torch

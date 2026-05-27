@@ -1,0 +1,47 @@
+# === Données régénérables ===
+data/datasets/
+data/videos/
+data/frames/
+data/**/*.zip
+data/**/*.mp4
+data/**/*.avi
+data/**/*.mkv
+
+# === Sorties d'entraînement / inférence ===
+runs/
+**/runs/
+*.cache
+
+# === Modèles ===
+# pré-entraînés (retéléchargés automatiquement par Ultralytics)
+yolov8*.pt
+yolov5*.pt
+# checkpoints d'entraînement (hébergés sur HuggingFace)
+*.pt
+*.onnx
+*.engine
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+.venv
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === IDE / OS ===
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# === Divers ===
+tree.txt
+*.log

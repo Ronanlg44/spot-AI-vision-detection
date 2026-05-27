@@ -1,0 +1,12 @@
+# Configuration YOLOv8 utilisée pour l'entraînement de la phase composite.
+#
+# Le split de validation pointe sur les images
+# noir et blanc (images/test_bw/), tandis que l'entraînement reste en
+# couleur. Cette configuration servait à valider la robustesse du modèle
+# en absence de couleur (test de la "signature structurelle" du robot).
+
+path: .
+train: images/train
+val: images/test_bw
+names:
+  0: Spot

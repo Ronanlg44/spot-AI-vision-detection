@@ -1,0 +1,10 @@
+# Core dependencies for the main pipeline (frame extraction, training,
+# inference). DINO annotation has its own pinned requirements in
+# scripts/requirements-annotate.txt.
+
+ultralytics>=8.0
+opencv-python
+matplotlib
+pillow
+pyyaml
+roboflow

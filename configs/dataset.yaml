@@ -1,0 +1,14 @@
+# YOLOv8 dataset configuration for the Spot detector trained on
+# DINO-annotated DARPA frames.
+#
+# This file is referenced by notebooks/train_yolov8m.ipynb.
+# Paths are relative to this config file.
+
+path: ../data/annotations_dino
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: Spot
