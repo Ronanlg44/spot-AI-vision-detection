@@ -10,6 +10,20 @@ annotations sont validées manuellement, puis un YOLOv8m est entraîné
 dessus. Le modèle final sert de **brique de redondance** dans un système
 de tracking visuel principalement basé sur des marqueurs AprilTag.
 
+## Démonstration
+
+Détection en environnement réel (crédit : vidéos CRIStAL) :
+
+![Détection en conditions difficiles](docs/demo_videos/video1_track5.gif)
+
+*Vidéo 1 — caméra mobile, opérateur proche, éclairage variable.
+Configuration : `track`, `conf=0.7`, `max_det=1`, `iou=0.1`.*
+
+![Détection en conditions nominales](docs/demo_videos/video2_track7.gif)
+
+*Vidéo 2 — conditions nominales. Configuration : `track`,
+`conf=0.5`, `max_det=1`, `iou=0.1`.*
+
 ## Aperçu du pipeline
 
 ```

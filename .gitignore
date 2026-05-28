@@ -45,3 +45,6 @@ Thumbs.db
 # === Divers ===
 tree.txt
 *.log
+
+# Exception : GIFs de démonstration
+!docs/demo_videos/*.gif
