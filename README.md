@@ -12,19 +12,19 @@ de tracking visuel principalement basé sur des marqueurs AprilTag.
 
 ## Démonstration
 
-Détection en environnement réel (crédit : vidéos CRIStAL) :
+Détection en environnement réel (crédit vidéo : CRIStAL/PRETIL) :
 
 <table>
 <tr>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track_10.gif)
+![Détection en conditions réelles](docs/demo_videos/track_12.gif)
 *Vidéo 1 — Carrières de Lezennes*
 
 </td>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track_11.gif)
+![Détection en conditions réelles](docs/demo_videos/track_13.gif)
 *Vidéo 2 — Carrières de Lezennes*
 
 </td>
@@ -32,14 +32,28 @@ Détection en environnement réel (crédit : vidéos CRIStAL) :
 <tr>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track_12.gif)
-*Vidéo 3 — Carrières de Lezennes*
+![Détection en conditions difficiles](docs/demo_videos/video1_track5.gif)
+*Vidéo 3 — Entrepôt désaffecté*
 
 </td>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track_13.gif)
-*Vidéo 4 — Carrières de Lezennes*
+![Détection en conditions nominales](docs/demo_videos/video2_track7.gif)
+*Vidéo 4 — Entrepôt désaffecté*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track_10.gif)
+*Vidéo 5 — Carrières de Lezennes*
+
+</td>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track_11.gif)
+*Vidéo 6 — Carrières de Lezennes*
 
 </td>
 </tr>
@@ -47,21 +61,7 @@ Détection en environnement réel (crédit : vidéos CRIStAL) :
 <td width="50%">
 
 ![Détection en conditions réelles](docs/demo_videos/track_14.gif)
-*Vidéo 5 — Carrières de Lezennes*
-
-</td>
-<td width="50%">
-
-![Détection en conditions difficiles](docs/demo_videos/video1_track5.gif)
-*Vidéo 6 — Entrepôt désaffecté*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-![Détection en conditions nominales](docs/demo_videos/video2_track7.gif)
-*Vidéo 7 — Entrepôt désaffecté*
+*Vidéo 7 — Carrières de Lezennes*
 
 </td>
 <td width="50%">
