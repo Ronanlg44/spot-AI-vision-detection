@@ -18,13 +18,13 @@ Détection en environnement réel (crédit : vidéos CRIStAL) :
 <tr>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track10.gif)
+![Détection en conditions réelles](docs/demo_videos/track_10.gif)
 *Vidéo 1 — Carrières de Lezennes*
 
 </td>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track11.gif)
+![Détection en conditions réelles](docs/demo_videos/track_11.gif)
 *Vidéo 2 — Carrières de Lezennes*
 
 </td>
@@ -32,13 +32,13 @@ Détection en environnement réel (crédit : vidéos CRIStAL) :
 <tr>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track12.gif)
+![Détection en conditions réelles](docs/demo_videos/track_12.gif)
 *Vidéo 3 — Carrières de Lezennes*
 
 </td>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track13.gif)
+![Détection en conditions réelles](docs/demo_videos/track_13.gif)
 *Vidéo 4 — Carrières de Lezennes*
 
 </td>
@@ -46,7 +46,7 @@ Détection en environnement réel (crédit : vidéos CRIStAL) :
 <tr>
 <td width="50%">
 
-![Détection en conditions réelles](docs/demo_videos/track14.gif)
+![Détection en conditions réelles](docs/demo_videos/track_14.gif)
 *Vidéo 5 — Carrières de Lezennes*
 
 </td>
