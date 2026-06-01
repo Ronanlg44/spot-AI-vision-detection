@@ -14,15 +14,62 @@ de tracking visuel principalement basé sur des marqueurs AprilTag.
 
 Détection en environnement réel (crédit : vidéos CRIStAL) :
 
-![Détection en conditions difficiles](docs/demo_videos/video1_track5.gif)
+<table>
+<tr>
+<td width="50%">
 
-*Vidéo 1 — caméra mobile, opérateur proche, éclairage variable.
-Configuration : `track`, `conf=0.7`, `max_det=1`, `iou=0.1`.*
+![Détection en conditions réelles](docs/demo_videos/track10.gif)
+*Vidéo 1 — Carrières de Lezennes*
+
+</td>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track11.gif)
+*Vidéo 2 — Carrières de Lezennes*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track12.gif)
+*Vidéo 3 — Carrières de Lezennes*
+
+</td>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track13.gif)
+*Vidéo 4 — Carrières de Lezennes*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Détection en conditions réelles](docs/demo_videos/track14.gif)
+*Vidéo 5 — Carrières de Lezennes*
+
+</td>
+<td width="50%">
+
+![Détection en conditions difficiles](docs/demo_videos/video1_track5.gif)
+*Vidéo 6 — Entrepôt désaffecté*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ![Détection en conditions nominales](docs/demo_videos/video2_track7.gif)
+*Vidéo 7 — Entrepôt désaffecté*
 
-*Vidéo 2 — conditions nominales. Configuration : `track`,
-`conf=0.5`, `max_det=1`, `iou=0.1`.*
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
 
 ## Aperçu du pipeline
 
