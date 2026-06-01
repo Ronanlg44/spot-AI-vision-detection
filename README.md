@@ -43,28 +43,26 @@ Détection en environnement réel (crédit vidéo : CRIStAL/PRETIL) :
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ![Détection en conditions réelles](docs/demo_videos/track_10.gif)
 *Vidéo 5 — Carrières de Lezennes*
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ![Détection en conditions réelles](docs/demo_videos/track_11.gif)
 *Vidéo 6 — Carrières de Lezennes*
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 ![Détection en conditions réelles](docs/demo_videos/track_14.gif)
 *Vidéo 7 — Carrières de Lezennes*
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
